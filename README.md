@@ -11,7 +11,6 @@
 
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ethanw2457&label=Profile%20views&color=0e75b6&style=flat" alt="ethanw2457" /> <a href="https://wakatime.com/@75d58da1-1cd8-4ee5-940d-ff5b536c346e"><img src="https://wakatime.com/badge/user/75d58da1-1cd8-4ee5-940d-ff5b536c346e.svg" alt="Total time coded since May 1 2024" /></a> </p>
 <br>
 <!-- <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp; -->
 <!-- https://devicon.dev/ -->
